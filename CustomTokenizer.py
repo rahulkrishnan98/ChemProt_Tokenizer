@@ -1,7 +1,7 @@
 '''
 file: tokenize.py
 inputs,
-1. Abstract sentence list - [sent1, sent2]
+1. Abstract sentence list - [[sent1], [sent2]]
 2. Entity list - [[start_ind, end_ind, tag], ..]
 
 output,
